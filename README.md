@@ -12,3 +12,5 @@ Image:
 The name of the repository comes from this timeless clip:
 
 https://www.youtube.com/watch?v=ouLvBijEqTA
+
+("Kann es sein, dass du dumm bist oder so was?" -> "Is it possible that you are stupid or something?")
